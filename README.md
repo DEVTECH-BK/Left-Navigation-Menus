@@ -1,0 +1,3 @@
+# Left-Navigation-Menu
+
+The current project's aim is to set up a left navigation menus...
